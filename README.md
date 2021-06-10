@@ -1,1 +1,1 @@
-# camada12_vero
+# camada12 Introducción a la informática
