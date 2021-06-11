@@ -1,0 +1,3 @@
+a. El sistema de control de versiones GIT fue creado por Linus Torvads en principio como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuaio o front end.
+b. Github actualmente pertenece a Microsoft, entiendo que por ser la plataforma mas importante de colaboración para proyectos open source.
+c. Si. Existen plataformas como git track.
