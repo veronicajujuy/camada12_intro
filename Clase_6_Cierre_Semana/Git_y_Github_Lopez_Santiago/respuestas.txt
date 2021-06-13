@@ -5,4 +5,4 @@ a. ¿Quién inventó el sistema de control de versión Git y por qué?
 b. ¿A quién pertenece actualmente Github y por qué?
     RTA: Microsoft lo compró en 2018
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
-    git hub web 
+    github web 
