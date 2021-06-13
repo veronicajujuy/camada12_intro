@@ -1,0 +1,14 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+
+10 Years of Git: An Interview with Git Creator Linus Torvalds. Ten years ago this week, the Linux kernel community faced a daunting challenge: They could no longer use their revision control system BitKeeper and no other Source Control Management (SCMs) met their needs for a distributed system.
+
+b. ¿A quién pertenece actualmente Github y por qué?
+
+Microsoft acquired GitHub, a popular code-repository service used by many developers and large companies, for $7.5 billion in stock.
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+1) Under your repository name, click Upload files.
+2) Drag and drop the file or folder you'd like to upload to your repository onto the file tree.
+3) At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
+4) Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is master, you should choose to create a new branch for your commit and then create a pull request.
