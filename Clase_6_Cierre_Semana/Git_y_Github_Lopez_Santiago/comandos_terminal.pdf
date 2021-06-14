@@ -1,0 +1,15 @@
+Mochila del viajero 
+Ejercitación individual obligatoria
+
+Comandos de la terminal más utilizados
+git status = Es necesario ejecutar este comando de manera constante, 
+            así nos podemos dar cuenta si hay cambios pendientes por subir al 
+            repositorio local. De no haber cargado los cambios, lo podremos 
+            identificar y corregir.
+git add . = Nos permite guardar los cambios realizados en los archivos o carpetas.
+git push  = Subir los cambios al repositorio remoto
+git pull  = Bajar los cambios del repositorio remoto
+git log   = Nos permite ver los cambios que hay hasta el momento en el proyecto 
+            que cloné en mi repositorio local. Me indica el nombre de la persona 
+            que modificó y la hora de modificación.
+ls        = Listar lo que hay al interior de la carpeta
