@@ -1,0 +1,6 @@
+Quién inventó el sistema de control de versión Git y por qué?
+Rta/ Fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+A quién pertenece actualmente Github y por qué?
+Microsoft la compró por 27 millones de dólares, porque los desarrolladores de windows trabajan también desde allí
+Hay otra forma que no sea la terminal para trabajar por Github?
+Se puede trabajar desde aplicaciones de escritorio de Github
