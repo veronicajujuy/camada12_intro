@@ -1,0 +1,9 @@
+¿Quién inventó el sistema de control de versión Git y por qué? = Chris Wanstrath, P. J. Hyett, 
+   Tom Preston-Werner y Scott Chacon - Para la creación de código fuente de programas de ordenador.
+¿A quién pertenece actualmente Github y por qué? = A Microsoft. En plena explosión de cloud services 
+   (servicios en la nube), con un crecimiento previsto para este año del 21.4%, Microsoft tiene que 
+   competir con el líder indiscutible a día de hoy, la todopoderosa Amazon con AWS. Qué mejor forma de 
+   hacerlo que estar en contacto directo con los desarrolladores que trabajan en esos servicios, ver 
+   sus necesidades y ofrecerles herramientas que faciliten su integración con Azure. 
+¿Hay otra forma que no sea la terminal para trabajar con Github? Si, por medio de VS Code por ejemplo o 
+   tambien desde CMD
