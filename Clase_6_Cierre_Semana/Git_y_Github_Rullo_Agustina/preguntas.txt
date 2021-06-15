@@ -1,0 +1,15 @@
+1- GitHub fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux
+Originalmente, la comunidad de desarrolladores de Linux utilizaba BitKeeper, un sistema de control de versiones distribuido y comercial, aunque gratuito para proyectos de código abierto. 
+Sin embargo, el hecho de ser un software propietario y por causa de ciertos problemas con su creador, 
+Larry McVoy, llevaron a Linus Torvalds a decantarse por buscar un nuevo sistema de control de versiones. 
+Tras probar muchas de las soluciones existentes y descubrir que ninguna cumplí­a con sus requisitos, 
+Torvalds decidió diseñar e implementar su propio sistema de control de versiones. 
+
+2- Github pertenece actualmente a Microsoft, debido a la adquisición que hizo en el 2018. El motivo fue
+el impulso de Microsoft Azure. Dicha plataforma brinda servicios en la nube, siendo que Microsoft 
+tiene que competir con Amazon con AWS. 
+La estrategia planteada por Microsoft es estar en contacto directo con los desarrolladores 
+que trabajan en esos servicios, ver sus necesidades y ofrecerles herramientas que faciliten su 
+integración con Azure.
+
+3- Si, con github desktop.
