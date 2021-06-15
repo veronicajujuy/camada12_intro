@@ -1,0 +1,3 @@
+Los procesadores para cada uno serían amd8 para jugar, ryzen 5 para edición de vídeo e intel i3 para office. 
+Es importante resaltar que la información suministrada es poca pues cada procesador posee una generación y esta cambia sus especificaciones por ejemplo podríamos tener un 
+ryzen 5 1600 y un am8 2013 lo cual afecta nuestra decisión inical
