@@ -17,4 +17,4 @@ Nuestro padre nos envió los siguientes procesadores:
 
 •	Amd Ryzen 5: filmora X, hermano mayor
 •	Amd a8: Cyberpunk 2077, para matilda
-•	intel i3 3230: hermano menor, Marcelo
+•	intel i3 3230: hermano menor, Marcelo.
