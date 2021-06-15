@@ -9,12 +9,12 @@ Estamos confundidos debido a que no los etiqueto con nombres…
 Nuestro padre nos envió los siguientes procesadores:
 
 
-•	Amd Ryzen 5
-•	Amd a8
-•	intel i3 3230
+-	Amd Ryzen 5
+-	Amd a8
+-	intel i3 3230
 
 ¿Cuál es para cada uno?
 
-•	Amd Ryzen 5: filmora X, hermano mayor
-•	Amd a8: Cyberpunk 2077, para matilda
-•	intel i3 3230: hermano menor, Marcelo.
+-	Amd Ryzen 5: filmora X, hermano mayor
+-	Amd a8: Cyberpunk 2077, para matilda
+-	intel i3 3230: hermano menor, Marcelo.
