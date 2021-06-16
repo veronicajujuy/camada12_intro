@@ -1,0 +1,24 @@
+
+main {
+    font-family: 'Ubuntu', sans-serif;       
+    display:block;
+    margin:auto;   
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+h2 {
+    text-align: left;
+    color: black;
+}
+
+#pie {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #005677;
+    color: white;
+    text-align: center;
+    display:block;
+    margin:auto;
+}
