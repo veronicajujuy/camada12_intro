@@ -1,1 +1,0 @@
-# camada12_vero
