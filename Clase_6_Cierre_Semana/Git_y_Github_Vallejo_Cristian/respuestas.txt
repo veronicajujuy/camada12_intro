@@ -1,0 +1,4 @@
+a. Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+b. Pertenece a Microsoft, lo compró para hacerse más fuerte en el open source y para hacerse con la
+ comunidad de desarrollo más nutrida del planeta.
+c. Si, GitLab, Bitbucket, SourceForge, entre otros.
