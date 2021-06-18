@@ -1,0 +1,10 @@
+1: ¿Quien invento el sistema de control de versiones GIT y porque?
+GIT fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del Kendel de Linux, el cual,fue un proyecto de softwarede codigo abiertocon un alcanze bastante amplio.
+Durante la mayor parte del mantenimiento, los cambios en el software se hacian los parches y archivos y en el 2002 el proyecto de Linux comenzo a usar un un ducs propietario llamado Bitkeeper.
+En el 2005 la relacion entre ambos (Lunix y Bitkeeper)se vino abajo, lo que impulso a la comunidad de desarrollo de Linux a desarrollar su propia herramienta basada en alguna lecciones de Bitkeeper(git)
+
+2:¿ A quien pertenece Github y porque?
+Github actualmente pertenece a Microsoft, quien lo compro en el 2018.La intension de este al comprar Github fue atraer lo maximo posible a la comunidad de desarroladores.
+
+3:¿Hay otra forma de trabajar con Github ademas de la terminal?
+si, los editores.
