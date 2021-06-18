@@ -1,0 +1,20 @@
+cheatsheet (recordatorio)
+
+1. git --version = Da la version de git que se tiene
+2. git init = Crear el primer repositorio local
+3. git config user.name = Accede a la cuenta de GitHub en el servidor
+4. git config user.email = Accede a la cuenta de GitHub en el servidor
+5. git add . = Agrega el repositorio
+6. git commit -m = Agrega comentario para reconocer local
+7. git push origin ( nombre de la rama) = Sube la informacion al servidor
+8. git pull = Baja la informacion remota al disco local
+9. git clone (Link del repositorio que se toma de GitHub)
+10. git status = Muestra el estado de los archivos en su subida al servidor
+11. git remote -v = Muestra los links del servidor correspondiente a la rama
+12. git log = Muestra informacion detallada de los archivos
+13. git config --global user.name - user.email = Configura el pc para que todo Repo se guardado con esa informacion
+14. git remote add origin (Link de la Repo creada en GitHub) = Vincula el repo local con el remoto
+15. git checkout (Nombre de la rama) = Cambia entre ramas
+16. git switch (Nombrede ka rama) = Cambia entre ramas
+17. git merge = traslada la informacion guardad de una rama a la otra
+18. git restore = Restaura informacion borrada
