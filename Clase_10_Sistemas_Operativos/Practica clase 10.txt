@@ -1,0 +1,6 @@
+$su – (para pasar a sudoer)
+$apt update (para actualizar)
+$apt install task-xfce-desktop (instalar nuevo tema)
+$systemctl set-default graphical.target (setear nuevo tema por defecto)
+reboot
+
