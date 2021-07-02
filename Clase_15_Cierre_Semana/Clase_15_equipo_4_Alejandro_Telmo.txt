@@ -1,0 +1,3 @@
+Acabamos de probar la conexion a internet de nuestra maquina virtual con el comando ping,
+ posteriormente procedimos a actualizar nuestro repositorio apt-get
+ (actualizaciòn de debian), con el comando "su" pasamos al superusuario y tenemos los privilegios de superusuario (wrx), si nos resulto familiar.
