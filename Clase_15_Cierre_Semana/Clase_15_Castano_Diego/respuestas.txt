@@ -1,0 +1,15 @@
+Descripcion de lo que hicimos
+
+Empleamos la linea de comandos desde una maquina virtual.
+
+Para que sirve apt-get
+
+Para obtener un paquete de algun programa.
+
+Para que sirve "su"
+
+Para ir al usuario raiz o superusuario.
+
+Forma familiar de conectarsa al equipo
+
+os ha permitido simular el entorno grafico que empleamos en nuestra maquina normal
