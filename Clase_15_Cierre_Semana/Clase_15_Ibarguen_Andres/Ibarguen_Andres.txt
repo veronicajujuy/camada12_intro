@@ -1,0 +1,21 @@
+Que acabo de hacer?:
+	- Primero instale git en mi maquina virtual de Debian
+	- Despues mire la version instalada de git
+	- Luego configure mi usuario a traves de git config
+	- Luego abri mi cuenta de github en el firefox del debian para obtener el repo a clonar
+	- Clone el repositorio de la clase para el ejercicio
+	- Cree mi rama para este ejercicio (lo siento profe en las anteriores edite directamente en el main)
+	- Cree un archivo de texto
+	- Abri el editor nano y edite por ahi el archivo 
+
+Para que sirve apt-get:
+	Sirve para actualizar e instalar aplicaciones a traves de la consola de linux
+
+Para que sirve su:
+	Sirve para realizar los comandos con nivel de super usuario o root
+
+Fue familiar esta forma de conectarse: 
+	Si, en algunas cosas si fue familiar, aunque no trabajo tanto en consola, con git si he trabajado algunas veces, no me incomoda y me gusta mucho el uso.
+	Pero linux si hacia mucho tiempo no lo tocaba, es bueno recordar algunas cosas y volver a esos tiempos, aunque ahora que estoy como siendo un usuario Mac por mi trabajo muchas cosas son por consola y estoy nuevamente aprendiendo. 
+
+	
