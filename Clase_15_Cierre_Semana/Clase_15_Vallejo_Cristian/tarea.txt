@@ -1,0 +1,11 @@
+1. Describan con sus palabras lo que acaban de hacer.
+Primero se verificó la conexión a internet, luego se instaló el git desde usuario. Después se verificó la versión del git. Luego clonamos la mochila y creamos el txt en la carpeta de la clase 15.
+
+2. Describir para qué sirve apt-get.
+Sirve para instalar para instalar programas desde internet.
+
+3. Describir para qué sirve "su".
+Sirve para cambiar el usuario a superusuario.
+
+4. ¿Les resultó familiar esta forma de conectarse a un equipo?
+No nos resultó familiar pero si muy sencilla y divertida.
