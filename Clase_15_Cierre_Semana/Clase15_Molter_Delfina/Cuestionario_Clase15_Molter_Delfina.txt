@@ -1,0 +1,13 @@
+1.Descripción de lo que hicimos:
+Intsalamos el paquete de Github en la maquina virtual. Clonamos el repositorio de la camada12 intro a la informatica. Abrimos nuestra branch creamos una carpeta y un nuevo archivo en la carpeta de la clase 15. Por ultimo lo pulleamos y mergeamos las branches.
+
+2.Describir para que sirve "apt-get"
+Para optener y utilizar diferentes paquetes.
+
+3.Describir para qué sirve "su"
+Para trabajar como super usuario con todas las credenciales y permisos.
+
+4.¿Les resultó Familiar esta forma de conectarse a un equipo?
+Si, es muy similar a usar la terminal en nuestra propia maquina.
+
+
