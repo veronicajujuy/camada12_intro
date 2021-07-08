@@ -1,0 +1,6 @@
+1) Clonamos el repositorio de la camada en la maquina virtual.
+2) El comando atp-get es el comando derivado de debian ysirve para instalar programas en linux, borarrlos, actualizar los repositorios
+3) el comando SU nos permite cambiar de un usuario a otro sin cerrar sesion.
+4) si, nos resulto similar a como lo veniamos haciendo.
+
+
