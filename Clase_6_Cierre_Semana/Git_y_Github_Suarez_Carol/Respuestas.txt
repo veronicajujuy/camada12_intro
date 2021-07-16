@@ -1,0 +1,5 @@
+a. ¿Quién invento Git y por qué?
+Git es un sistema de control de versiones distribuido que, como ya hemos introducido, fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux
+b. ¿A quién pertenece GitHub?
+a Microsoft 
+c. ¿Hay otra forma que no sea la terminal para trabajar en GitHub?
