@@ -1,0 +1,20 @@
+CLASE 15 (01/07/21)
+EJERCICIO
+
+- Describan con sus palabras lo que acaban de hacer.
+	Desde la PC virtual, entramos al sistema operativo Debian, abrimos la terminal e instalamos Git.
+	Una vez instalado, clonamos nuestro repositorio externo (mochila)
+	En los archivos de nuestra mochila creamos la carpeta correspondiente a la clase 15 y creamos un archivo de texto.
+	y luego con el comando # nano, abrimos un editor de texto para modificar dicho archivo
+
+-Describir para que sirve el comando "apt-get"
+	Este comando lo utilizamos para instalar diferentes programas en nuestro sistema operativo Linux.
+
+-Describir para que sirve "su".
+	Este comando lo utilizamos para ingresar a nuestro usuario dentro de Linux.
+
+-¿Les resultó familiar esta forma de conectarse a un equipo?
+	Si la pregunta se refiere a conectarse al repositorio remoto si. Son lo comandos que ya venimos utilizando en Windows
+	a traves de la terminal git bash
+
+
