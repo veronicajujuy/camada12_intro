@@ -1,0 +1,9 @@
+a) Git es un sistema de control de versiones distribuido que, como ya hemos introducido, fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. Git es un software escrito en C, con interfaz por lí­nea de comandos, disponible para Windows, MacOS X y GNU/Linux. En la actualidad, existen además multitud de clientes gráficos y herramientas basadas en git.
+
+A grandes rasgos, un sistema de control de versiones o sistema de gestión del código fuente (SCM, Source Code Management), es un software que permite registrar todos los cambios realizados en el código fuente de un proyecto, de forma que sea sencillo comparar diferentes versiones del mismo, recuperar versiones anteriores y, en general, permitir que una o varias personas desarrollen un mismo proyecto de forma efectiva.
+
+La palabra clave cuando se describen las características de git, tal y como le gusta subrayar al propio Linus, es distribuido. Esto significa que en git, a diferencia de los sistemas de control de versiones centralizados (como CVS o Subversion), no es necesario que exista un repositorio central. Cada desarrollador dispone de una copia del repositorio con la historia completa del mismo y puede realizar en él todas las modificaciones que desee. Dichas modificaciones pueden ser posteriormente compartidas e incorporadas en los repositorios de otros desarrolladores. Este modo de funcionamiento permite eliminar la problemática que se presenta en los sistemas centralizados de decidir quién puede hacer cambios en el repositorio.
+
+b)Github pertenece actualmente a microsoft, porque lo compro.
+
+c)Si.Github Desktop.
