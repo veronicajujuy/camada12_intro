@@ -1,0 +1,11 @@
+Mi ip publica es : 168.196.24.66 
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+
+Dirección IP Privada : 192.168.56.1
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+
+Dirección MAC: 80-EE-73-5A-BA-D5
+
+La ip pública y la ip privada son de tipo ipv4.
+
+
