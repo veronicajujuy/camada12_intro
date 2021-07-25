@@ -1,0 +1,4 @@
+1) Clonamos el repositorio de la camada en la VM.
+2) El comando "apt-get" sirve para instalar programas en Linux, borrarlos, actualizar los repositorios.
+3) El comando "su" nos permite cambiar de un usuario a otro sin cerrar sesión.
+4) Sí, nos resultó similar a cómo veníamos trabajando.
