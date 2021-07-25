@@ -1,0 +1,7 @@
+1)Lo que acabo de hacer es:
+-Instalar Git
+-Clonar mi mochila poniendo mi nombre de usuario y contraseña
+-Crear este archivo dentro de la carpeta de la clase
+2)apt-get sirve para conseguir funciones a través de la consola para Debian.
+3)"su" sirve para entrar en el modo superusuario.
+4)Si.
