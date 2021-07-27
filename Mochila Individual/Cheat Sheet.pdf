@@ -1,0 +1,15 @@
+Git Bash
+Create a new local Repository
+1- Git init
+2- Git add .
+3- Git commit -m "Message" - 
+Download a remote Repository
+1- Git remote add origin "link" - Add the repository
+2- Git clone "link" - Copy the repository
+3- Git pull origin main - Download files
+4- Git push origin main - Upload new and modified files
+Branches
+1- Git branch "Branch's name" - Create a new Branch
+2- Git check out main - Go to the main branch
+3- Git merge "Branch's name" - Merge two branches, one of them the main branch.
+
