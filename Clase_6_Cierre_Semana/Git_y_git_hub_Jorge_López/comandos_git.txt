@@ -1,0 +1,4 @@
+Los comandos más usuales son:
+
+Git Int: inicializa el control de versiones de git en la carpeta en 
+
