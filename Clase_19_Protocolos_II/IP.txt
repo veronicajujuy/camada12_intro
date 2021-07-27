@@ -1,0 +1,6 @@
+ Link-local IPv6 Address . . . . . : fe80::f81b:afe2:6f3f:bb83%11(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.0.10(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+
+
+Physical Address. . . . . . . . . : F8-94-C2-5E-81-39
