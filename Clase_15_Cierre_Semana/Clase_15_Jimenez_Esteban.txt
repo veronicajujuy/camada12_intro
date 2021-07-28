@@ -1,0 +1,12 @@
+1. Describan con sus palabras lo que acaban de hacer.
+
+Se realizó la instalación de github en la máquina virtual, luego se clonó el repositorio, se bajó la rama, guardamos cambios y se mergeó la rama.
+
+2.Describir para que sirve "apt-get"
+Para instalar paquetes, para utilizar repositorios.
+
+3.Describir para qué sirve "su"
+Es el superusuario, sirve para trabajar con todos los permisos.
+
+4.¿Les resultó Familiar esta forma de conectarse a un equipo?
+Si, desde la terminal se trabaja de manera muy parecida.
